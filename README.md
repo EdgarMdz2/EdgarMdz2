@@ -1,3 +1,5 @@
+![Banner](Banner2.png)
+
 <div align="center">
   
 ## 👋 ¡Hola! soy Edgar.
@@ -26,8 +28,6 @@ Soy **ingeniero geofísico** de profesión, pero con una gran pasión por la tec
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:edgarmendeez@gmail.com)
 
 <div>
-
-![Banner](Banner2.png)
 <!--
 **EdgarMdz2/EdgarMdz2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
