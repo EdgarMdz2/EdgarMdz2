@@ -27,7 +27,7 @@ Soy **ingeniero geofísico** de profesión, pero con una gran pasión por la tec
 
 <div>
 
-![Banner](Banner.png)
+![Banner](Banner2.png)
 <!--
 **EdgarMdz2/EdgarMdz2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
