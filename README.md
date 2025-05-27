@@ -1,3 +1,5 @@
+![Banner](banner.png)
+
 <div align="center">
   
 ## 👋 ¡Hola! soy Edgar.
