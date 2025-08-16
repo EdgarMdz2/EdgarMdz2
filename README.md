@@ -8,7 +8,7 @@
 
 <div align="left">
 
-Soy **ingeniero geofísico** de formación, pero con una gran pasión por la tecnología, el análisis de datos y la automatización de procesos. En 2024 inicié mi formación como **Analista de datos Jr**, explorando herramientas como **Python**, **SQL** y **Tableu** para aplicar el análisis de datos en proyectos reales. Puedes echarle un vistazo a mis repositorios 😁.
+Soy **ingeniero geofísico** de formación, pero con una gran pasión por la tecnología, el análisis de datos y la automatización de procesos. En 2024 inicié mi formación como **Analista de datos**, explorando herramientas como **Python**, **SQL** y **Tableu** para aplicar el análisis de datos en proyectos reales. Puedes echarle un vistazo a mis repositorios 😁.
 
 <div>
 
